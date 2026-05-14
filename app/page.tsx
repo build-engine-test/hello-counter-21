@@ -1,8 +1,9 @@
+import Counter from "./_components/counter";
+
 export default function Home() {
   return (
-    <main>
-      <h1>Hello from the Build Engine</h1>
-      <p>This page is the scaffold landing. The Executor will replace it.</p>
+    <main className="flex min-h-screen flex-col items-center justify-center gap-4">
+      <Counter />
     </main>
   );
 }
