@@ -1,0 +1,5 @@
+{
+  "build_id": "21",
+  "plan_hash_note": "Read-only reference. Translate this into Drizzle code in lib/db/schema.ts.",
+  "tables": []
+}
